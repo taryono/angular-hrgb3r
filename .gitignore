@@ -1,4 +1,4 @@
-/node_modules 
+/node_modules
 /.angular
 docker-compose.override.yml
 Homestead.json
